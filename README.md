@@ -3,4 +3,4 @@ The following repository presents the procedure used in the preprint article "De
 
 ![Screenshot 2022-11-15 155524](https://user-images.githubusercontent.com/118160036/201850358-9d964afd-d28c-4fc8-97c2-37977fb77eac.png)
 
-The article is available at https://doi.org/10.1101/2022.11.02.514811
+The article is available at https://ajp.amjpathol.org/article/S0002-9440(23)00273-0/fulltext
